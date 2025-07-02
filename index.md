@@ -1,7 +1,7 @@
 # Pete Butland BSc (Hons)
 [![LinkedIn](images/linkedin_profile_badge.svg)](https://www.linkedin.com/in/pete-butland-1909a176)
 
-[Personal Information](#personal-information) | [Education](#education) | [Interests](#interests) | [Referees](#referees) | [Overview](#overview) | [Skills Summary](#skills-summary) | [Professional Experience](#professional-experience)
+[Personal Information](#personal-information) | [Overview](#overview) | [Skills Summary](#skills-summary) | [Professional Experience](#professional-experience) | [Education](#education) | [Interests](#interests) | [References](#references)
 
 ---
 
@@ -11,40 +11,6 @@
 - **Nationality:** English
 - **Driving License:** Full (UK + AUS)
 - **Residential Status:** English/Australian dual-citizenship
-
----
-
-## Education
-
-### <img src="images/university_of_portsmouth_logo.jpeg" alt="University of Portsmouth" width="40" style="vertical-align:middle; margin-right:8px;"/> University of Portsmouth
-**September 1991 - September 1994**  
-Portsmouth, Hampshire, ENGLAND  
-**BSc. (Honours) Degree in Computer Science**
-- Final year courses: Object-Oriented Methods, Windows Programming and Application Development, Human Computer Interaction, Computer Graphics
-- Programming experience: C, C++, Visual Basic, Smalltalk, macro development (DOS & MS Windows)
-- Final year project: "The automation of a regression test facility"
-
-### <img src="images/horndean_technology_college_logo.png" alt="Horndean Community College" width="40" style="vertical-align:middle; margin-right:8px;"/> Horndean Community College - Sixth Form
-**September 1989 - September 1991**  
-Horndean, Portsmouth, Hampshire, ENGLAND
-- 3 'A' Levels: Physics, Pure Mathematics, Applied Mathematics
-
-### Horndean Community College
-**September 1987 - September 1989**  
-Horndean, Portsmouth, Hampshire, ENGLAND
-- 9 GCSEs: Mathematics, Physics, Chemistry, English Literature, English, Music, Design, French, German
-
----
-
-## Interests
-
-Music, Reading, Walking, Cryptic crosswords, Sailing, Unicycling, and Juggling.
-
----
-
-## Referees
-
-Available upon request.
 
 ---
 
@@ -203,3 +169,37 @@ London, UK
 Portsmouth, UK
 - Developed DB2-based client/server modules using PL/1 and REXX, supporting business-critical applications for IBM clients.
 - Designed and implemented an automated regression test system, improving software quality and reducing manual testing effort.
+
+---
+
+## Education
+
+### <img src="images/university_of_portsmouth_logo.jpeg" alt="University of Portsmouth" width="40" style="vertical-align:middle; margin-right:8px;"/> University of Portsmouth
+**September 1991 - September 1994**  
+Portsmouth, Hampshire, ENGLAND  
+**BSc. (Honours) Degree in Computer Science**
+- Final year courses: Object-Oriented Methods, Windows Programming and Application Development, Human Computer Interaction, Computer Graphics
+- Programming experience: C, C++, Visual Basic, Smalltalk, macro development (DOS & MS Windows)
+- Final year project: "The automation of a regression test facility"
+
+### <img src="images/horndean_technology_college_logo.png" alt="Horndean Community College" width="40" style="vertical-align:middle; margin-right:8px;"/> Horndean Community College - Sixth Form
+**September 1989 - September 1991**  
+Horndean, Portsmouth, Hampshire, ENGLAND
+- 3 'A' Levels: Physics, Pure Mathematics, Applied Mathematics
+
+### Horndean Community College
+**September 1987 - September 1989**  
+Horndean, Portsmouth, Hampshire, ENGLAND
+- 9 GCSEs: Mathematics, Physics, Chemistry, English Literature, English, Music, Design, French, German
+
+---
+
+## Interests
+
+Music, Reading, Walking, Cryptic crosswords, Sailing, Unicycling, and Juggling.
+
+---
+
+## References
+
+Available upon request.
