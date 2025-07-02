@@ -1,7 +1,7 @@
 # Pete Butland BSc (Hons)
 [![LinkedIn](images/linkedin_profile_badge.svg)](https://www.linkedin.com/in/pete-butland-1909a176)
 
-[Personal Information](#personal-information) | [Overview](#overview) | [Skills Summary](#skills-summary) | [Professional Experience](#professional-experience) | [Education](#education) | [Interests](#interests) | [References](#references)
+[Personal Information](#personal-information) \| [Overview](#overview) \| [Skills Summary](#skills-summary) \| [Experience](#experience) \| [Education](#education) \| [Interests](#interests) \| [References](#references) \| [Testimonials](#testimonials)
 
 ---
 
@@ -34,16 +34,28 @@ I also believe that the tools that a developer uses to provide software solution
 - **Technologies and Frameworks:** Spring, Spring Boot, Spring Data, Spring Security, Hibernate, Docker, Apache Camel, Guice, Angular, React, Ember, Bootstrap, Flyway, Liquibase, XML, JAXB, JDBC, Micro-services, Service Oriented Architecture, Web services (SOAP, RESTful), JSP, jQuery, OSGi (Equinox), Eclipse RCP, AJAX, GWT, Velocity, JUnit, Mockito, EasyMock, NextApp Echo2 (open source AJAX library), Jasper Reports, JNI, RMI, Unicode, UML, Swing, SWT
 - **Source Control:** Git/GitHub/Bitbucket, Subversion (SVN), CVS, PVCS
 - **Application Servers:** Express, Tomcat, Jetty, Glassfish, WebLogic, WebSphere
-- **Development Tools:** VS Code, IntelliJ IDE, Eclipse IDE, Gradle, Maven, Ant, Yarn, NPM, Jenkins, Bamboo, Jira, Cobertura, Crucible, Confluence, Enterprise Architect
-- **Testing tools:** JUnit, Jest, Testcafe, Geb, Spock, Enzyme, Sinon, Gatling, Cucumber, JMeter
+- **Development Tools:** VS Code, IntelliJ, Eclipse, Gradle, Maven, Ant, Yarn, NPM, Jenkins, Bamboo, Jira, Cobertura, Crucible, Confluence, Enterprise Architect
+- **Testing tools:** JUnit, Jest, Storybook, Playwright, Testcafe, Geb, Spock, Enzyme, Sinon, Gatling, JMeter, Cucumber
 - **Operating Systems:** Mac OS, Ubuntu, Windows, Sun Solaris, IBM AIX, OS/2, TSO/MVS
 - **Third Party Systems:** New Relic, Sumo Logic, AppDynamics, Grafana, Auth0, ActiveVOS, Open LDAP, Active Directory, Sun Access Manager, Sun Identity Manager
 
 ---
 
 
-## Professional Experience
+## Experience
 
+### Personal Projects (2025)
+Self-initiated
+- Engineered a cross-platform mobile app (Android/iOS) with a custom lightweight framework in JavaScript, Java, and Swift, rendering real-time 3D models of the Earth, Sun, and Moon using three.js to visualize solar time (http://sites.google.com/view/solarclock-app).
+- Built a pipeline to convert image-based US court transcripts to text, then synthesized audio versions using MyShell OpenVoice, using Node.js and TypeScript (https://caughtlistening.net).
+- Developed a web application to visually aggregate and filter 2024 US election polling results by source and voter type, using JavaScript for graphical data presentation.
+- Explored uses of LLMs as coding assistants (Copilot agentic AI) on the following projects.
+- Created a tool, written in Typescript, to scrape and transform solar and lunar eclipse prediction data into JSON, enabling API-driven access to astronomical events (https://pbutland.github.io/eclipse-predictions/).
+- Designed and implemented a website featuring interactive simulators for vintage 1970s–80s computers, built with React and TypeScript, and integrated with Ollama LLMs for terminal command processing (https://sites.google.com/view/noasaservice).
+- Prototyped a social media ranking tool utilizing LLMs to evaluate and rank posts based on "social benefit" metrics, experimenting with the potential for AI-driven content curation (https://pbutland.github.io/ranking-algorithm).
+- Architected an open recipe API (OpenAPI spec), delivering a TypeScript/Express backend and a React-based frontend for recipe creation management.
+
+<hr style="height:0; border-top:1px solid #eee;"/>
 
 ### <img src="images/origin_energy_logo.jpeg" alt="Origin Energy" width="40" style="vertical-align:middle; margin-right:8px;"/> Origin Energy (2021–2024) – Software Developer
 Melbourne, AU
@@ -167,7 +179,7 @@ London, UK
 
 ### <img src="images/ibm_logo.jpeg" alt="IBM UK Ltd." width="40" style="vertical-align:middle; margin-right:8px;"/> IBM UK Ltd. (1991–1994) – Sponsored Student
 Portsmouth, UK
-- Developed DB2-based client/server modules using PL/1 and REXX, supporting business-critical applications for IBM clients.
+- Developed DB2-based client/server modules using PL/1 and REXX, for an internal order and supply application.
 - Designed and implemented an automated regression test system, improving software quality and reducing manual testing effort.
 
 ---
@@ -182,12 +194,12 @@ Portsmouth, Hampshire, ENGLAND
 - Programming experience: C, C++, Visual Basic, Smalltalk, macro development (DOS & MS Windows)
 - Final year project: "The automation of a regression test facility"
 
-### <img src="images/horndean_technology_college_logo.png" alt="Horndean Community College" width="40" style="vertical-align:middle; margin-right:8px;"/> Horndean Community College - Sixth Form
+### <img src="images/horndean_technology_college_logo.png" alt="Horndean Technology College" width="40" style="vertical-align:middle; margin-right:8px;"/> Horndean Technology College
 **September 1989 - September 1991**  
 Horndean, Portsmouth, Hampshire, ENGLAND
 - 3 'A' Levels: Physics, Pure Mathematics, Applied Mathematics
 
-### Horndean Community College
+### <img src="images/horndean_technology_college_logo.png" alt="Horndean Technology College" width="40" style="vertical-align:middle; margin-right:8px;"/> Horndean Technology College
 **September 1987 - September 1989**  
 Horndean, Portsmouth, Hampshire, ENGLAND
 - 9 GCSEs: Mathematics, Physics, Chemistry, English Literature, English, Music, Design, French, German
@@ -203,3 +215,29 @@ Music, Reading, Walking, Cryptic crosswords, Sailing, Unicycling, and Juggling.
 ## References
 
 Available upon request.
+
+## Testimonials
+
+> "We couldn't have gotten where we did without you and will definitely feel your absence. Hope to see you around some time in the future." *- Senior Developer*
+
+> "It's been impressive to see what you can do. Hopefully we get another chance to work together." *- Engineering Manager*
+
+> "Thanks for all your help and laughs - couldn't have done it without you. Hopefully we'll cross paths a third time." *- Business Analyst*
+
+> "You put in a massive effort on WhitePages migration, Open Street Maps, and of course the Marshall projects. Stay in touch." *- Engineering Manager*
+
+> "It's been a blast! I can't thank you enough for all your hard work/help on the Atlas/OSM project. We will miss you madly." *- Product Owner*
+
+> "Thanks for rewriting my C++ in Java! It was great working with you in the short time we had together. All the best in the future." *- Senior Developer*
+
+> "Your passion for quality has made a big impact and will be missed. As will our enjoyable lunches. I hope to work with you again some day!" *- Lead Developer*
+
+> "Thanks for all your passion, wisdom, and determination to get it right for customers and your colleagues. Working with you over the last year or so has been an awesome experience. I've learnt a lot from you (including that you juggle and ride a unicycle). May your future bugs be elusive, your merge conflicts be minimal and your next endeavours be as smooth as a well executed deployment." *- Product Owner*
+
+> "It's been a long time working together and I'm going to miss our ability to be in-sync so often. I think we'll all miss your big contribution to the LPG team and to Retail Tech - and we'll miss the big personality too! Thanks for being such a huge part of our success. You've been a superstar to work with mate!" *- Lead Developer*
+
+> "Thanks for always pushing me to be the best and to do the best." *- Senior Developer*
+
+> "Working with you has been an awesome and new experience. I've never worked with someone as talented and professional as you. You're always learning, committed, and passionate about your work." *- Developer*
+
+> "Such a shame that we only worked together for a short time but I have definitely seen an amazing dev in what you've done in the LPG team and an awesome person with the way you communicate and encourage the people around you. Hoping our paths to cross again in the future!" *- Developer*
