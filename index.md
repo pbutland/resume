@@ -86,7 +86,7 @@ Melbourne, AU
 - Championed best practices in documentation, automated testing (Jest, Testcafe, Gatling), and CI/CD pipelines using Jenkins, significantly increasing deployment quality and speed.
 - Delivered presentations at internal guilds on monitoring, alerting, and performance optimisation, fostering a culture of knowledge sharing and continuous improvement.
 
-<hr style="border:0; border-top:1px solid #eaecef; margin:24px 0;"/>
+<hr style="height:0; border-top:1px solid #eee;"/>
 
 ### <img src="images/woolworths_group_logo.jpeg" alt="Woolworths Group" width="40" style="vertical-align:middle; margin-right:8px;"/> Woolworths Group (2021) – Software Developer
 Remote
@@ -94,7 +94,7 @@ Remote
 - Orchestrated the deployment of a Kubernetes cluster in Azure using Terraform and Jenkins, managing the transition from AWS and ensuring high availability and security.
 - Analysed and optimised Aurora RDS MySQL performance for high-traffic retail events, implementing tuning strategies that reduced query times and improved system resilience.
 
-<hr style="border:0; border-top:1px solid #eaecef; margin:24px 0;"/>
+<hr style="height:0; border-top:1px solid #eee;"/>
 
 ### <img src="images/origin_energy_logo.jpeg" alt="Origin Energy" width="40" style="vertical-align:middle; margin-right:8px;"/> Origin Energy (2018–2020) – Software Developer
 Melbourne, AU
@@ -102,7 +102,7 @@ Melbourne, AU
 - Led the design and implementation of AWS cloud infrastructure, CI/CD pipelines, and monitoring solutions, ensuring robust, automated deployments and proactive system health management.
 - Managed and executed data migration of customer records from legacy systems using AWS Lambda, ensuring data integrity and minimal business disruption.
 
-<hr style="border:0; border-top:1px solid #eaecef; margin:24px 0;"/>
+<hr style="height:0; border-top:1px solid #eee;"/>
 
 ### <img src="images/nab_logo.jpeg" alt="National Australia Bank" width="40" style="vertical-align:middle; margin-right:8px;"/> National Australia Bank (2018) – Software Developer
 Melbourne, AU
@@ -110,7 +110,7 @@ Melbourne, AU
 - Designed a flexible plug-in architecture and implemented CI pipelines, enabling rapid feature delivery and integration of new analytics modules.
 - Conducted proof-of-concept projects exploring emerging technologies such as machine learning and face recognition, evaluating their potential for future banking solutions.
 
-<hr style="border:0; border-top:1px solid #eaecef; margin:24px 0;"/>
+<hr style="height:0; border-top:1px solid #eee;"/>
 
 ### <img src="images/nab_logo.jpeg" alt="National Australia Bank" width="40" style="vertical-align:middle; margin-right:8px;"/> National Australia Bank (2017–2018) – Software Developer
 Melbourne, AU
@@ -118,7 +118,7 @@ Melbourne, AU
 - Introduced modern Java 8 practices, including streams and functional programming, and mentored team members to improve code quality and maintainability.
 - Led the design and implementation of robust logging, auditing, and error handling frameworks, enhancing system transparency and reliability.
 
-<hr style="border:0; border-top:1px solid #eaecef; margin:24px 0;"/>
+<hr style="height:0; border-top:1px solid #eee;"/>
 
 ### <img src="images/sensis_logo.jpeg" alt="Sensis" width="40" style="vertical-align:middle; margin-right:8px;"/> Sensis (2015–2017) – Software Developer
 Melbourne, AU
@@ -127,78 +127,78 @@ Melbourne, AU
 - Managed the migration of legacy Whitepages data to Neo4J, ensuring data consistency and enabling advanced search capabilities.
 - Directed the migration of GIS mapping systems to AWS and transitioned to open-source mapping data, reducing licensing costs and increasing flexibility.
 
-<hr style="border:0; border-top:1px solid #eaecef; margin:24px 0;"/>
+<hr style="height:0; border-top:1px solid #eee;"/>
 
 ### <img src="images/anz_logo.jpeg" alt="ANZ" width="40" style="vertical-align:middle; margin-right:8px;"/> ANZ (2013–2014) – Analyst Programmer
 Wellington, NZ
 - Developed and maintained the New Zealand internet banking and mobile API layer using J2EE, Spring, Hibernate, and GWT, supporting secure and reliable digital banking services.
 - Advocated for and implemented code quality improvements and Agile development practices, contributing to faster delivery cycles and higher team productivity.
 
-<hr style="border:0; border-top:1px solid #eaecef; margin:24px 0;"/>
+<hr style="height:0; border-top:1px solid #eee;"/>
 
 ### <img src="images/bureau_of_meteorology_logo.jpeg" alt="Bureau of Meteorology" width="40" style="vertical-align:middle; margin-right:8px;"/> Bureau of Meteorology (2013) – Software Developer
 Melbourne, AU
 - Enhanced the National Water Account system with new features and performance improvements using Spring, GWT, MySQL, and BPEL.
 - Improved system documentation and championed Agile processes, increasing project transparency and team collaboration.
 
-<hr style="border:0; border-top:1px solid #eaecef; margin:24px 0;"/>
+<hr style="height:0; border-top:1px solid #eee;"/>
 
 ### <img src="images/sensis_logo.jpeg" alt="Sensis (Telstra)" width="40" style="vertical-align:middle; margin-right:8px;"/> Sensis (Telstra) (2010–2012) – Software Developer
 Melbourne, AU
 - Maintained and enhanced directory listing adapters and identity management solutions using J2EE and LDAP, ensuring data accuracy and security.
 - Developed RESTful web services and a self-service platform, empowering customers to manage their own directory listings and reducing support overhead.
 
-<hr style="border:0; border-top:1px solid #eaecef; margin:24px 0;"/>
+<hr style="height:0; border-top:1px solid #eee;"/>
 
 ### <img src="images/genix_ventures_logo.jpeg" alt="Genix Ventures" width="40" style="vertical-align:middle; margin-right:8px;"/> Genix Ventures (2006–2010) – Software Developer
 Melbourne, AU
 - Led the development of a modular web application plugin framework using OSGi, Eclipse RCP, Spring, and Hibernate, enabling rapid delivery of new features and customisations.
 - Implemented CI/CD pipelines and Agile methodologies, improving release frequency and team responsiveness to changing requirements.
 
-<hr style="border:0; border-top:1px solid #eaecef; margin:24px 0;"/>
+<hr style="height:0; border-top:1px solid #eee;"/>
 
 ### <img src="images/monash_logo.svg" alt="Monash University" width="40" style="vertical-align:middle; margin-right:8px;"/> Monash University (2005) – Part-time Design Tutor
 Melbourne, AU
 - Tutored undergraduate students in object-oriented analysis, design, and UML, helping them develop strong foundational skills in software engineering principles.
 
-<hr style="border:0; border-top:1px solid #eaecef; margin:24px 0;"/>
+<hr style="height:0; border-top:1px solid #eee;"/>
 
 ### <img src="images/cogstate_logo.jpeg" alt="CogState" width="40" style="vertical-align:middle; margin-right:8px;"/> CogState (2004–2005) – Software Engineer
 Melbourne, AU
 - Built automated test harnesses and utilities for cognitive diagnostic tools using Java, JUnit, Eclipse, Ant, and XML, improving product reliability and test coverage.
 
-<hr style="border:0; border-top:1px solid #eaecef; margin:24px 0;"/>
+<hr style="height:0; border-top:1px solid #eee;"/>
 
 ### <img src="images/space-time research_logo.jpeg" alt="Space-Time Research" width="40" style="vertical-align:middle; margin-right:8px;"/> Space-Time Research (2000–2004) – Team Lead/Software Engineer
 Melbourne, AU
 - Led the design and development of the SuperCHANNEL ETL product using C++, Java, JDBC, XML, and various RDBMS technologies, delivering robust data integration solutions to clients.
 - Managed a team of engineers and oversaw project delivery, ensuring high-quality outcomes and adherence to timelines.
 
-<hr style="border:0; border-top:1px solid #eaecef; margin:24px 0;"/>
+<hr style="height:0; border-top:1px solid #eee;"/>
 
 ### MITS (1999–2000) – Consultant
 Melbourne, AU
 - Designed and implemented SCADA/DMS sub-systems for industrial automation using C++ and COM/DCOM, contributing to improved system reliability and maintainability.
 
-<hr style="border:0; border-top:1px solid #eaecef; margin:24px 0;"/>
+<hr style="height:0; border-top:1px solid #eee;"/>
 
 ### <img src="images/tellabs_logo.jpeg" alt="Tellabs" width="40" style="vertical-align:middle; margin-right:8px;"/> Tellabs (1997–1998) – Software Engineer
 London, UK
 - Developed network management system (NMS) UI libraries and sub-systems for mobile phone networks using C++, OS/2, and Windows NT, supporting critical telecommunications infrastructure.
 
-<hr style="border:0; border-top:1px solid #eaecef; margin:24px 0;"/>
+<hr style="height:0; border-top:1px solid #eee;"/>
 
 ### <img src="images/ibm_logo.jpeg" alt="IBM UK Ltd." width="40" style="vertical-align:middle; margin-right:8px;"/> ISSC Australia Ltd. (1996) – Software Engineer
 Melbourne, AU
 - Developed utilities and support tools for banking systems using C++, DB2, and REXX, enhancing operational efficiency and data processing capabilities.
 
-<hr style="border:0; border-top:1px solid #eaecef; margin:24px 0;"/>
+<hr style="height:0; border-top:1px solid #eee;"/>
 
 ### <img src="images/inference_corporation_logo.jpeg" alt="Inference Europe Ltd." width="40" style="vertical-align:middle; margin-right:8px;"/> Inference Europe Ltd. (1995) – Software Engineer
 London, UK
 - Developed and maintained expert systems for enterprise clients using TSO/MVS, OS/2, and C++, delivering tailored solutions for complex business requirements.
 
-<hr style="border:0; border-top:1px solid #eaecef; margin:24px 0;"/>
+<hr style="height:0; border-top:1px solid #eee;"/>
 
 ### <img src="images/ibm_logo.jpeg" alt="IBM UK Ltd." width="40" style="vertical-align:middle; margin-right:8px;"/> IBM UK Ltd. (1991–1994) – Sponsored Student
 Portsmouth, UK
