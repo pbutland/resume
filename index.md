@@ -90,7 +90,7 @@ Melbourne, AU
 
 ### <img src="images/woolworths_group_logo.jpeg" alt="Woolworths Group" width="40" style="vertical-align:middle; margin-right:8px;"/> Woolworths Group (2021) – Software Developer
 Remote
-- Led the migration of a legacy SAP/Java application to a modern microservices architecture using Java (SpringBoot), Node.js, and React, improving maintainability and scalability.
+- Helped lead the migration of a legacy SAP/Java application to a modern microservices architecture using Java (SpringBoot), Node.js, and React, improving maintainability and scalability.
 - Orchestrated the deployment of a Kubernetes cluster in Azure using Terraform and Jenkins, managing the transition from AWS and ensuring high availability and security.
 - Analysed and optimised Aurora RDS MySQL performance for high-traffic retail events, implementing tuning strategies that reduced query times and improved system resilience.
 
@@ -98,9 +98,9 @@ Remote
 
 ### <img src="images/origin_energy_logo.jpeg" alt="Origin Energy" width="40" style="vertical-align:middle; margin-right:8px;"/> Origin Energy (2018–2020) – Software Developer
 Melbourne, AU
-- Delivered a new customer connection system leveraging React, SpringBoot, Postgres, and SAP, enabling streamlined onboarding and improved customer experience.
-- Led the design and implementation of AWS cloud infrastructure, CI/CD pipelines, and monitoring solutions, ensuring robust, automated deployments and proactive system health management.
-- Managed and executed data migration of customer records from legacy systems using AWS Lambda, ensuring data integrity and minimal business disruption.
+- Delivered a new customer energy connection system leveraging React, SpringBoot, Postgres, and SAP, enabling streamlined onboarding and improved customer experience.
+- Helped lead the design and implementation of AWS cloud infrastructure, CI/CD pipelines, and monitoring solutions, ensuring robust, automated deployments and proactive system health management.
+- Managed and executed data migration of customer records from legacy systems using AWS Lambda, ensuring data integrity and zero business disruption.
 
 <hr style="height:0; border-top:1px solid #eee;"/>
 
@@ -109,11 +109,6 @@ Melbourne, AU
 - Developed a merchant insights analytics platform using Angular, AWS, SpringBoot, DynamoDB, and Postgres, providing actionable business intelligence to stakeholders.
 - Designed a flexible plug-in architecture and implemented CI pipelines, enabling rapid feature delivery and integration of new analytics modules.
 - Conducted proof-of-concept projects exploring emerging technologies such as machine learning and face recognition, evaluating their potential for future banking solutions.
-
-<hr style="height:0; border-top:1px solid #eee;"/>
-
-### <img src="images/nab_logo.jpeg" alt="National Australia Bank" width="40" style="vertical-align:middle; margin-right:8px;"/> National Australia Bank (2017–2018) – Software Developer
-Melbourne, AU
 - Developed a regulatory EU trade reporting tool using Spring Boot, Apache Camel, and ActiveMQ, ensuring compliance with evolving financial regulations.
 - Introduced modern Java 8 practices, including streams and functional programming, and mentored team members to improve code quality and maintainability.
 - Led the design and implementation of robust logging, auditing, and error handling frameworks, enhancing system transparency and reliability.
@@ -123,7 +118,7 @@ Melbourne, AU
 ### <img src="images/sensis_logo.jpeg" alt="Sensis" width="40" style="vertical-align:middle; margin-right:8px;"/> Sensis (2015–2017) – Software Developer
 Melbourne, AU
 - Built SEM (Search Engine Marketing) product selector and directory publishing tools using Spring, Angular, and AWS, supporting business growth and digital transformation.
-- Led the migration of Yellowpages and Whitepages backend systems to AWS, utilising SpringBoot and Neo4J, resulting in improved scalability and reduced operational costs.
+- Redevelopment of Yellowpages and Whitepages backend systems and migration to AWS, utilising SpringBoot and Neo4J, resulting in improved scalability and reduced operational costs.
 - Managed the migration of legacy Whitepages data to Neo4J, ensuring data consistency and enabling advanced search capabilities.
 - Directed the migration of GIS mapping systems to AWS and transitioned to open-source mapping data, reducing licensing costs and increasing flexibility.
 
@@ -145,7 +140,8 @@ Melbourne, AU
 
 ### <img src="images/sensis_logo.jpeg" alt="Sensis (Telstra)" width="40" style="vertical-align:middle; margin-right:8px;"/> Sensis (Telstra) (2010–2012) – Software Developer
 Melbourne, AU
-- Maintained and enhanced directory listing adapters and identity management solutions using J2EE and LDAP, ensuring data accuracy and security.
+- Developed and delivered a directory listing adapter allowing customers access to more information pertinent to their listings.
+- Managed the handover from an external provider of the existing identity management system and led the project to replace it with an in-house solution using J2EE and LDAP, ensuring data accuracy and security.
 - Developed RESTful web services and a self-service platform, empowering customers to manage their own directory listings and reducing support overhead.
 
 <hr style="height:0; border-top:1px solid #eee;"/>
@@ -154,6 +150,7 @@ Melbourne, AU
 Melbourne, AU
 - Led the development of a modular web application plugin framework using OSGi, Eclipse RCP, Spring, and Hibernate, enabling rapid delivery of new features and customisations.
 - Implemented CI/CD pipelines and Agile methodologies, improving release frequency and team responsiveness to changing requirements.
+- Creation and maintenance of supporting open source projects, enhancing community engagement and collaboration.
 
 <hr style="height:0; border-top:1px solid #eee;"/>
 
