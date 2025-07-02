@@ -1,11 +1,13 @@
 # Pete Butland BSc (Hons)
-[LinkedIn](https://www.linkedin.com/in/pete-butland-1909a176)
+[![LinkedIn](images/linkedin_profile_badge.svg)](https://www.linkedin.com/in/pete-butland-1909a176)
+
+[Personal Information](#personal-information) | [Education](#education) | [Interests](#interests) | [Referees](#referees) | [Overview](#overview) | [Skills Summary](#skills-summary) | [Professional Experience](#professional-experience)
 
 ---
 
 ## Personal Information
 
-- **Date of Birth:** May, 1973
+- **Birth Year:** 1973
 - **Nationality:** English
 - **Driving License:** Full (UK + AUS)
 - **Residential Status:** English/Australian dual-citizenship
