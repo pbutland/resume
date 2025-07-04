@@ -24,7 +24,6 @@ I also believe that the tools that a developer uses to provide software solution
 
 ---
 
-
 ## Skills Summary
 
 - **Languages:** JAVA, NodeJS, Typescript, JavaScript, Groovy, Ansible, C/C++, HTML, Ruby, Python
@@ -40,7 +39,6 @@ I also believe that the tools that a developer uses to provide software solution
 - **Third Party Systems:** New Relic, Sumo Logic, AppDynamics, Grafana, Auth0, ActiveVOS, Open LDAP, Active Directory, Sun Access Manager, Sun Identity Manager
 
 ---
-
 
 ## Experience
 
@@ -146,14 +144,14 @@ Melbourne, AU
 ### <img src="images/monash_logo.svg" alt="Monash University" width="40" style="vertical-align:middle; margin-right:8px;"/> Monash University (2005)
 ### Part-time Design Tutor
 Melbourne, AU
-- Tutored undergraduate students in object-oriented analysis, design, and UML, helping them develop strong foundational skills in software engineering principles.
+- Tutored undergraduate students in analysis and design methodologies, helping them develop strong foundational skills in software engineering principles.
 
 <hr style="height:0; border-top:1px solid #eee;"/>
 
 ### <img src="images/cogstate_logo.jpeg" alt="CogState" width="40" style="vertical-align:middle; margin-right:8px;"/> CogState (2004–2005)
 ### Software Engineer
 Melbourne, AU
-- Built automated test harnesses and utilities for cognitive diagnostic tools using Java, JUnit, Eclipse, Ant, and XML, improving product reliability and test coverage.
+- Built automated test harnesses and utilities for cognitive diagnostic tools using Java, JUnit, Eclipse, Ant, and XML, improving product reliability and test coverage.  Utilised Gaussian random number generation to ensure statistical validity.
 
 <hr style="height:0; border-top:1px solid #eee;"/>
 
@@ -161,6 +159,7 @@ Melbourne, AU
 ### Team Lead/Software Engineer
 Melbourne, AU
 - Led the design and development of the SuperCHANNEL ETL product using C++, Java, JDBC, XML, and various RDBMS technologies, delivering robust data integration solutions to clients.
+- Improved performance of proprietary database formats by implementing indexing algorithms and designing and developing a distributed database implementation.
 - Managed a team of engineers and oversaw project delivery, ensuring high-quality outcomes and adherence to timelines.
 
 <hr style="height:0; border-top:1px solid #eee;"/>
@@ -168,14 +167,14 @@ Melbourne, AU
 ### MITS (1999–2000)
 ### Consultant
 Melbourne, AU
-- Designed and implemented SCADA/DMS sub-systems for industrial automation using C++ and COM/DCOM, contributing to improved system reliability and maintainability.
+- Designed and implemented SCADA/DMS system using C++ and COM/DCOM, contributing to improved system reliability and maintainability.
 
 <hr style="height:0; border-top:1px solid #eee;"/>
 
 ### <img src="images/tellabs_logo.jpeg" alt="Tellabs" width="40" style="vertical-align:middle; margin-right:8px;"/> Tellabs (1997–1998)
 ### Software Engineer
 London, UK
-- Developed network management system (NMS) UI libraries and sub-systems for mobile phone networks using C++, OS/2, and Windows NT, supporting critical telecommunications infrastructure.
+- Developed network management system (NMS) user interface libraries and sub-systems for mobile phone networks using C++, OS/2, and Windows NT, supporting critical telecommunications infrastructure.
 
 <hr style="height:0; border-top:1px solid #eee;"/>
 
@@ -189,36 +188,33 @@ Melbourne, AU
 ### <img src="images/inference_corporation_logo.jpeg" alt="Inference Europe Ltd." width="40" style="vertical-align:middle; margin-right:8px;"/> Inference Europe Ltd. (1995)
 ### Software Engineer
 London, UK
-- Developed and maintained expert systems for enterprise clients using TSO/MVS, OS/2, and C++, delivering tailored solutions for complex business requirements.
+- Developed and maintained expert systems on TSO/MVS, OS/2, Windows, and Solaris using C++, delivering tailored solutions for individual client needs.
 
 <hr style="height:0; border-top:1px solid #eee;"/>
 
 ### <img src="images/ibm_logo.jpeg" alt="IBM UK Ltd." width="40" style="vertical-align:middle; margin-right:8px;"/> IBM UK Ltd. (1991–1994)
 ### Sponsored Student
 Portsmouth, UK
-- Developed DB2-based client/server modules using PL/1 and REXX, for an internal order and supply application.
-- Designed and implemented an automated regression test system, improving software quality and reducing manual testing effort.
+- Developed DB2-based client/server modules using PL/1, for an internal order and supply application.
+- Designed and implemented an automated regression test system using REXX, improving software quality and reducing manual testing effort.
 
 ---
 
 ## Education
 
-### <img src="images/university_of_portsmouth_logo.jpeg" alt="University of Portsmouth" width="40" style="vertical-align:middle; margin-right:8px;"/> University of Portsmouth
-**September 1991 - September 1994**  
-Portsmouth, Hampshire, ENGLAND  
+### <img src="images/university_of_portsmouth_logo.jpeg" alt="University of Portsmouth" width="40" style="vertical-align:middle; margin-right:8px;"/> University of Portsmouth (1991 - 1994)
+Portsmouth, UK  
 **BSc. (Honours) Degree in Computer Science**
 - Final year courses: Object-Oriented Methods, Windows Programming and Application Development, Human Computer Interaction, Computer Graphics
 - Programming experience: C, C++, Visual Basic, Smalltalk, macro development (DOS & MS Windows)
 - Final year project: "The automation of a regression test facility"
 
-### <img src="images/horndean_technology_college_logo.png" alt="Horndean Technology College" width="40" style="vertical-align:middle; margin-right:8px;"/> Horndean Technology College
-**September 1989 - September 1991**  
-Horndean, Portsmouth, Hampshire, ENGLAND
+### <img src="images/horndean_technology_college_logo.png" alt="Horndean Technology College" width="40" style="vertical-align:middle; margin-right:8px;"/> Horndean Technology College (1989 - 1991)
+Portsmouth, UK
 - 3 'A' Levels: Physics, Pure Mathematics, Applied Mathematics
 
-### <img src="images/horndean_technology_college_logo.png" alt="Horndean Technology College" width="40" style="vertical-align:middle; margin-right:8px;"/> Horndean Technology College
-**September 1987 - September 1989**  
-Horndean, Portsmouth, Hampshire, ENGLAND
+### <img src="images/horndean_technology_college_logo.png" alt="Horndean Technology College" width="40" style="vertical-align:middle; margin-right:8px;"/> Horndean Technology College (1987 - 1989)
+Portsmouth, UK
 - 9 GCSEs: Mathematics, Physics, Chemistry, English Literature, English, Music, Design, French, German
 
 ---
@@ -232,6 +228,8 @@ Music, Reading, Walking, Cryptic crosswords, Sailing, Unicycling, and Juggling.
 ## References
 
 Available upon request.
+
+---
 
 ## Testimonials
 
