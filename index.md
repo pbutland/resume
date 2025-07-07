@@ -2,7 +2,7 @@
 [![LinkedIn](images/linkedin_profile_badge.svg)](https://www.linkedin.com/in/pete-butland-1909a176)
 
 
-[Personal Information](#personal-information) \| [Overview](#overview) \| [Skills Summary](#skills-summary) \| [Experience](#experience) \| [Education](#education) \| [Interests](#interests) \| [References](#references) \| [Testimonials](#testimonials) \| [Audio](#audio)
+[Personal Information](#personal-information) \| [Overview](#overview) \| [Skills Summary](#skills-summary) \| [Experience](#experience) \| [Education](#education) \| [Interests](#interests) \| [References](#references) \| [Testimonials](#testimonials)
 
 ---
 
@@ -10,7 +10,6 @@
 
 - **Birth Year:** 1973
 - **Nationality:** English
-- **Driving License:** Full (UK + AUS)
 - **Residential Status:** English/Australian dual-citizenship
 
 ---
@@ -257,13 +256,3 @@ Available upon request.
 > "Working with you has been an awesome and new experience. I've never worked with someone as talented and professional as you. You're always learning, committed, and passionate about your work." *- Developer*
 
 > "Such a shame that we only worked together for a short time but I have definitely seen an amazing dev in what you've done in the LPG team and an awesome person with the way you communicate and encourage the people around you. Hoping our paths to cross again in the future!" *- Developer*
-
----
-
-## Audio
-
-<audio controls>
-   <source src="./audio/audio.mp3" type="audio/mpeg">
-   Your browser does not support the audio element.
-</audio>
-
