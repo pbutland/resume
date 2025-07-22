@@ -40,6 +40,8 @@ I also believe that the tools that a developer uses to provide software solution
 
 ---
 
+<div style="page-break-after: always;"></div>
+
 ## Experience
 
 ### Personal Projects (2025)
@@ -230,6 +232,8 @@ Music, Reading, Walking, Cryptic crosswords, Sailing, Unicycling, and Juggling.
 Available upon request.
 
 ---
+
+<div style="page-break-after: always;"></div>
 
 ## Testimonials
 
