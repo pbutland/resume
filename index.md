@@ -44,14 +44,15 @@ I also believe that the tools that a developer uses to provide software solution
 
 ### Personal Projects (2025)
 Self-initiated
-- Engineered a cross-platform mobile app (Android/iOS) with a custom lightweight framework in JavaScript, Java, and Swift, rendering real-time 3D models of the Earth, Sun, and Moon using three.js to visualize solar time ([solarclock-app](https://sites.google.com/view/solarclock-app)).
-- Built a pipeline to convert image-based US court transcripts to text, then synthesized audio versions using MyShell OpenVoice, using Node.js and TypeScript ([caughtlistening.net](https://caughtlistening.net)).
+- Engineered a cross-platform mobile app (Android/iOS) with a custom lightweight framework in JavaScript, Java, and Swift, rendering real-time 3D models of the Earth, Sun, and Moon using three.js to visualise solar time ([solarclock-app](https://sites.google.com/view/solarclock-app)).
+- Built a pipeline to convert image-based US court transcripts to text, then synthesised audio versions using MyShell OpenVoice, using Node.js and TypeScript ([caughtlistening.net](https://caughtlistening.net)).
 - Developed a web application to visually aggregate and filter 2024 US election polling results by source and voter type, using JavaScript and Highcharts JS for graphical data presentation.
 - Explored uses of LLMs as coding assistants (Copilot agentic AI) on the following projects.
 - Created a tool, written in Typescript, to scrape and transform solar and lunar eclipse prediction data into JSON, enabling API-driven access to astronomical events ([eclipse-predictions](https://pbutland.github.io/eclipse-predictions/)).
 - Designed and implemented a website featuring interactive simulators for vintage 1970s–80s computers, built with React and TypeScript, and integrated with Ollama LLMs for terminal command processing ([NAAS](https://sites.google.com/view/noasaservice)).
-- Prototyped a social media ranking tool utilizing LLMs to evaluate and rank posts based on "social benefit" metrics, experimenting with the potential for AI-driven content curation ([ranking-algorithm](https://pbutland.github.io/ranking-algorithm)).
+- Prototyped a social media ranking tool utilising LLMs to evaluate and rank posts based on "social benefit" metrics, experimenting with the potential for AI-driven content curation ([ranking-algorithm](https://pbutland.github.io/ranking-algorithm)).
 - Architected an open recipe API (OpenAPI spec), delivering a TypeScript/Express backend and a React-based frontend for recipe creation management ([open-recipe](https://pbutland.github.io/open-recipe/)).
+- Developed a web-based solar power optimiser to analyse household energy data and solar power generation potential, providing personalised solar potential insights ([solar](https://pbutland.github.io/solar/)).
 
 <hr style="height:0; border-top:1px solid #eee;"/>
 
