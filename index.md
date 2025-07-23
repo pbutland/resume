@@ -42,7 +42,7 @@ I also believe that the tools that a developer uses to provide software solution
 
 ## Experience
 
-### Personal Projects (2025)
+### Personal Projects (2024-2025)
 Self-initiated
 - Engineered a cross-platform mobile app (Android/iOS) with a custom lightweight framework in JavaScript, Java, and Swift, rendering real-time 3D models of the Earth, Sun, and Moon using three.js to visualise solar time ([solarclock-app](https://sites.google.com/view/solarclock-app)).
 - Built a pipeline to convert image-based US court transcripts to text, then synthesised audio versions using MyShell OpenVoice, using Node.js and TypeScript ([caughtlistening.net](https://caughtlistening.net)).
@@ -207,7 +207,7 @@ Portsmouth, UK
 Portsmouth, UK  
 **BSc. (Honours) Degree in Computer Science**
 - Final year courses: Object-Oriented Methods, Windows Programming and Application Development, Human Computer Interaction, Computer Graphics
-- Programming experience: C, C++, Visual Basic, Smalltalk, macro development (DOS & MS Windows)
+- Programming experience: C, C++, Visual Basic, Smalltalk (OS/2, MS Windows)
 - Final year project: "The automation of a regression test facility"
 
 ### <img src="images/horndean_technology_college_logo.png" alt="Horndean Technology College" width="40" style="vertical-align:middle; margin-right:8px;"/> Horndean Technology College (1989 - 1991)
