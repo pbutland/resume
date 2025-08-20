@@ -20,7 +20,7 @@ I am an experienced software developer with a wide variety of exposure in differ
 
 I constantly strive to pay meticulous attention to detail to ensure the correct solution is delivered on time and at the appropriate cost. Failing to understand user requirements is something that I believe is one of the most costly aspects of software development. Therefore I always try, where possible, to ensure that every stakeholder understands what will be developed for any particular part of a system before any significant development effort has been expended.
 
-I also believe that the tools that a developer uses to provide software solutions (including which programming languages are used) are just that; tools. Programming languages and technologies come and go, so a good software developer should be able to pick up new tools and discard old tools easily where applicable. While it is important to recognise that certain tools are better suited to some problems than others, in my opinion, the main focus for a developer should be in understanding the system that they are developing and fully understanding the requirements for that system. And to not get overly distracted with the specific technologies that should be used to achieve the end goal.
+I also believe that the tools that a developer uses to provide software solutions (including which programming languages are used) are just that: tools. Programming languages and technologies come and go, so a good software developer should be able to pick up new tools and discard old tools easily where applicable. While it is important to recognise that certain tools are better suited to some problems than others, in my opinion, the main focus for a developer should be in understanding the system that they are developing and fully understanding the requirements for that system. And to not get overly distracted with the specific technologies that should be used to achieve the end goal.
 
 ---
 
@@ -29,8 +29,8 @@ I also believe that the tools that a developer uses to provide software solution
 - **Languages:** JAVA, NodeJS, Typescript, JavaScript, Groovy, Ansible, C/C++, HTML, Ruby, Python
 - **Cloud Technologies:** AWS, Azure
 - **AI & LLMs:** GitHub Copilot (GPT-4.1) and Claude 3.7/4 as coding assistants for system design, architecture, development, and testing. Integration with LLMs via APIs. Prompt engineering
-- **Databases:** Postgres, Oracle, DynamoDb, MySQL, Neo4J, MongoDB, Cassandra, Microsoft SQL Server, Sybase, SAS, Microsoft Access, IBM DB2
-- **Technologies and Frameworks:** Spring, Spring Boot, Spring Data, Spring Security, Hibernate, Docker, Apache Camel, Guice, Angular, React, Ember, Bootstrap, Flyway, Liquibase, XML, JAXB, JDBC, Micro-services, Service Oriented Architecture, Web services (SOAP, RESTful), JSP, jQuery, OSGi (Equinox), Eclipse RCP, AJAX, GWT, Velocity, JUnit, Mockito, EasyMock, NextApp Echo2 (open source AJAX library), Jasper Reports, JNI, RMI, Unicode, UML, Swing, SWT
+- **Databases:** Postgres, Oracle, MySQL, Neo4J, DynamoDb, MongoDB, Cassandra, Microsoft SQL Server, Sybase, SAS, Microsoft Access, IBM DB2
+- **Technologies and Frameworks:** Spring, Spring Boot, Spring Data, Spring Security, Hibernate, Docker, React, Apache Camel, Guice, Angular, Ember, Bootstrap, Flyway, Liquibase, XML, JAXB, JDBC, Micro-services, Service Oriented Architecture, Web services (SOAP, RESTful, GraphQL), JSP, jQuery, OSGi (Equinox), Eclipse RCP, AJAX, GWT, Velocity, JUnit, Mockito, EasyMock, NextApp Echo2 (open source AJAX library), Jasper Reports, JNI, RMI, Unicode, UML, Swing, SWT
 - **Source Control:** Git/GitHub/Bitbucket, Subversion (SVN), CVS, PVCS
 - **Application Servers:** Express, Tomcat, Jetty, Glassfish, WebLogic, WebSphere
 - **Development Tools:** VS Code, IntelliJ, Eclipse, Gradle, Maven, Ant, Yarn, NPM, Jenkins, Bamboo, Jira, Cobertura, Crucible, Confluence, Enterprise Architect
@@ -46,10 +46,11 @@ I also believe that the tools that a developer uses to provide software solution
 Self-initiated
 - Engineered a cross-platform mobile app (Android/iOS) with a custom lightweight framework in JavaScript, Java, and Swift, rendering real-time 3D models of the Earth, Sun, and Moon using three.js to visualise solar time ([solarclock-app](https://sites.google.com/view/solarclock-app)).
 - Built a pipeline to convert image-based US court transcripts to text, then synthesised audio versions using MyShell OpenVoice, using Node.js and TypeScript ([caughtlistening.net](https://caughtlistening.net)).
-- Developed a web application to visually aggregate and filter 2024 US election polling results by source and voter type, using JavaScript and Highcharts JS for graphical data presentation.
+- Developed a web application to visually aggregate and filter 2024 US election polling results (from https://projects.fivethirtyeight.com) by source and voter type, using JavaScript and Highcharts JS for graphical data presentation.
 - Explored uses of LLMs as coding assistants (Copilot agentic AI) on the following projects.
 - Developed a web-based solar power optimiser to analyse household energy data and solar power generation potential, providing personalised solar potential insights ([solar](https://pbutland.github.io/solar/)).
 - Created a tool, written in Typescript, to scrape and transform solar and lunar eclipse prediction data into JSON, enabling API-driven access to astronomical events ([eclipse-predictions](https://pbutland.github.io/eclipse-predictions/)).
+- Created the [AI Darwin Awards](https://aidarwinawards.org/).
 - Designed and implemented a website featuring interactive simulators for vintage 1970s–80s computers, built with React and TypeScript, and integrated with Ollama LLMs for terminal command processing ([NAAS](https://sites.google.com/view/noasaservice)).
 - Prototyped a social media ranking tool utilising LLMs to evaluate and rank posts based on "social benefit" metrics, experimenting with the potential for AI-driven content curation ([ranking-algorithm](https://pbutland.github.io/ranking-algorithm)).
 - Architected an open recipe API (OpenAPI spec), delivering a TypeScript/Express backend and a React-based frontend for recipe creation management ([open-recipe](https://pbutland.github.io/open-recipe/)).
