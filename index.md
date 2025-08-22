@@ -46,7 +46,7 @@ I also believe that the tools that a developer uses to provide software solution
 Self-initiated
 - Engineered a cross-platform mobile app (Android/iOS) with a custom lightweight framework in JavaScript, Java, and Swift, rendering real-time 3D models of the Earth, Sun, and Moon using three.js to visualise solar time ([solarclock-app](https://sites.google.com/view/solarclock-app)).
 - Built a pipeline to convert image-based US court transcripts to text, then synthesised audio versions using MyShell OpenVoice, using Node.js and TypeScript ([caughtlistening.net](https://caughtlistening.net)).
-- Developed a web application to visually aggregate and filter 2024 US election polling results (from https://projects.fivethirtyeight.com) by source and voter type, using JavaScript and Highcharts JS for graphical data presentation.
+- Developed a web application to visually aggregate and filter 2024 US election polling results by source and voter type, using JavaScript and Highcharts JS for graphical data presentation ([US Election 2024 Polling Visualisation](https://caughtlistening.net/election/about.html)).
 - Explored uses of LLMs as coding assistants (Copilot agentic AI) on the following projects.
 - Developed a web-based solar power optimiser to analyse household energy data and solar power generation potential, providing personalised solar potential insights ([solar](https://pbutland.github.io/solar/)).
 - Created a tool, written in Typescript, to scrape and transform solar and lunar eclipse prediction data into JSON, enabling API-driven access to astronomical events ([eclipse-predictions](https://pbutland.github.io/eclipse-predictions/)).
