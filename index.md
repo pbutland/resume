@@ -49,6 +49,7 @@ Self-initiated
 - Developed a web application to visually aggregate and filter 2024 US election polling results by source and voter type, using JavaScript and Highcharts JS for graphical data presentation ([US Election 2024 Polling Visualisation](https://caughtlistening.net/election/about.html)).
 - Explored uses of LLMs as coding assistants (Copilot agentic AI) on the following projects.
 - Developed a web-based solar power optimiser to analyse household energy data and solar power generation potential, providing personalised solar potential insights ([solar](https://pbutland.github.io/solar/)).
+- Developed a web service to convert distributor/retailer specific energy usage file formats into NEM12 ([nem12adapter](https://github.com/pbutland/nem12adapter/)).
 - Created a tool, written in Typescript, to scrape and transform solar and lunar eclipse prediction data into JSON, enabling API-driven access to astronomical events ([eclipse-predictions](https://pbutland.github.io/eclipse-predictions/)).
 - Created the [AI Darwin Awards](https://aidarwinawards.org/).
 - Designed and implemented a website featuring interactive simulators for vintage 1970s–80s computers, built with React and TypeScript, and integrated with Ollama LLMs for terminal command processing ([NAAS](https://sites.google.com/view/noasaservice)).
