@@ -61,7 +61,7 @@ Self-initiated
 ### <img src="images/sustainability_victoria.svg" alt="Sustainability Victoria" width="40" style="vertical-align:middle; margin-right:8px;"/> Sustainability Victoria (2025–to date)
 ### Software Developer
 Melbourne, AU
-- Led the modernisation of the FirstRate5 energy rating application, a dual-mode Java desktop and Azure-hosted web server, rapidly assessing the legacy codebase to formulate a structured migration plan toward a modern architecture.
+- Leading the modernisation of the FirstRate5 energy rating application, a dual-mode Java desktop and Azure-hosted web server, rapidly assessing the legacy codebase to formulate a structured migration plan toward a modern architecture.
 - Stabilised the existing legacy codebase to reduce ongoing maintenance burden, implementing end-to-end tests and improving the CI/CD build pipeline to enable safe, continuous delivery during the modernisation process.
 - Modernised the look and feel of the existing application to improve customer retention and engagement during the transition period, balancing short-term UX improvements with long-term architectural goals.
 
