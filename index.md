@@ -42,6 +42,15 @@ I also believe that the tools that a developer uses to provide software solution
 
 ## Experience
 
+### <img src="images/sustainability_victoria.svg" alt="Sustainability Victoria" width="40" style="vertical-align:middle; margin-right:8px;"/> Sustainability Victoria (2025–to date)
+### Software Developer
+Melbourne, AU
+- Leading the modernisation of the FirstRate5 energy rating application, a dual-mode Java desktop and Azure-hosted web server, rapidly assessing the legacy codebase to formulate a structured migration plan toward a modern architecture.
+- Stabilised the existing legacy codebase to reduce ongoing maintenance burden, implementing end-to-end tests and improving the CI/CD build pipeline to enable safe, continuous delivery during the modernisation process.
+- Modernised the look and feel of the existing application to improve customer retention and engagement during the transition period, balancing short-term UX improvements with long-term architectural goals.
+
+<hr style="height:0; border-top:1px solid #eee;"/>
+
 ### Personal Projects (2024-2025)
 Self-initiated
 - Engineered a cross-platform mobile app (Android/iOS) with a custom lightweight framework in JavaScript, Java, and Swift, rendering real-time 3D models of the Earth, Sun, and Moon using three.js to visualise solar time ([solarclock-app](https://sites.google.com/view/solarclock-app)).
@@ -55,15 +64,6 @@ Self-initiated
 - Designed and implemented a website featuring interactive simulators for vintage 1970s–80s computers, built with React and TypeScript, and integrated with Ollama LLMs for terminal command processing ([NAAS](https://sites.google.com/view/noasaservice)).
 - Prototyped a social media ranking tool utilising LLMs to evaluate and rank posts based on "social benefit" metrics, experimenting with the potential for AI-driven content curation ([ranking-algorithm](https://pbutland.github.io/ranking-algorithm)).
 - Architected an open recipe API (OpenAPI spec), delivering a TypeScript/Express backend and a React-based frontend for recipe creation management ([open-recipe](https://pbutland.github.io/open-recipe/)).
-
-<hr style="height:0; border-top:1px solid #eee;"/>
-
-### <img src="images/sustainability_victoria.svg" alt="Sustainability Victoria" width="40" style="vertical-align:middle; margin-right:8px;"/> Sustainability Victoria (2025–to date)
-### Software Developer
-Melbourne, AU
-- Leading the modernisation of the FirstRate5 energy rating application, a dual-mode Java desktop and Azure-hosted web server, rapidly assessing the legacy codebase to formulate a structured migration plan toward a modern architecture.
-- Stabilised the existing legacy codebase to reduce ongoing maintenance burden, implementing end-to-end tests and improving the CI/CD build pipeline to enable safe, continuous delivery during the modernisation process.
-- Modernised the look and feel of the existing application to improve customer retention and engagement during the transition period, balancing short-term UX improvements with long-term architectural goals.
 
 <hr style="height:0; border-top:1px solid #eee;"/>
 
